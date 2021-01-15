@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/worldpotato/repos/stream/hackerrank/input-output/lib/myMath/build",
-  "command": "/usr/bin/c++   -g -Wall -Wextra -pedantic -Werror -std=gnu++11 -o CMakeFiles/myMath.dir/myMath.cpp.o -c /home/worldpotato/repos/stream/hackerrank/input-output/lib/myMath/myMath.cpp",
-  "file": "/home/worldpotato/repos/stream/hackerrank/input-output/lib/myMath/myMath.cpp"
-}
-]
