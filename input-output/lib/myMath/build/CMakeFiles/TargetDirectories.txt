@@ -1,0 +1,3 @@
+/home/worldpotato/repos/stream/hackerrank/input-output/lib/myMath/build/CMakeFiles/rebuild_cache.dir
+/home/worldpotato/repos/stream/hackerrank/input-output/lib/myMath/build/CMakeFiles/edit_cache.dir
+/home/worldpotato/repos/stream/hackerrank/input-output/lib/myMath/build/CMakeFiles/myMath.dir
