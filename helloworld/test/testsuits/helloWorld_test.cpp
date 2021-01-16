@@ -10,12 +10,14 @@
 
 TEST(example_success, success)
 {
-    // capture the first line in standard out
-    std::string output = testing::internal::GetCapturedStdout();
+    testing::internal::CaptureStdout();
 
     // run main function
     char file[15] = "./main";
     system(file);
+
+    // capture the first line in standard out
+    std::string output = testing::internal::GetCapturedStdout();
 
     // Compare with expected output
     std::string expected = "Hello, World!";
