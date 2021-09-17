@@ -4,9 +4,8 @@
  * @created     : Sunday Dec 13, 2020 11:59:33 CET
  */
 
-#include <iostream>
 #include "myMath.hpp"
-
+#include <iostream>
 
 int main()
 {
@@ -24,5 +23,4 @@ int main()
 
     std::cout << result << std::endl;
 }
-
 
